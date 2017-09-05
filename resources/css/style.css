@@ -38,3 +38,9 @@ h3 {
 #body p {
   font-size: 14px;
 }
+
+#midbar {
+  background-image: url("../img/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  color: white;
+}
