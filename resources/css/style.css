@@ -3,6 +3,11 @@ html {
   text-align: center;
 }
 
+/* Use for the copyright notice text only. */
+.copyright {
+  font-size: 11px;
+}
+
 /* All headers will be bold. */
 h1, h2, h3 {
   font-weight: bold;
@@ -42,5 +47,14 @@ h3 {
 #midbar {
   background-image: url("../img/the-flatiron-building.png");
   background-repeat: no-repeat;
+  color: white;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+}
+
+#footer a {
   color: white;
 }
